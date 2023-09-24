@@ -1,0 +1,154 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #FFFEFE;
+}
+header {
+    text-align: center;
+    background-color: #5b8f8f;
+    padding: 30px;
+    height: 130px;
+}
+h1 {
+    color: white;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.abogada {
+    color: white;
+    font-size: 18px;
+    font-style: italic;    
+}
+
+.datosextra {
+    color: white;
+}
+
+.foto1 {
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: white;
+    float: left;
+    margin-right: 20px;
+    height: auto;
+}
+
+a:hover {
+    text-decoration: none;
+
+}
+
+nav {
+    display: inline;
+    height: 30px;
+
+}
+
+.menu {
+    list-style: none;
+    
+}
+
+.menulist {
+    display: inline;
+    margin-right: 10px;
+       
+}
+
+.menucolor {
+    background-color: #5b8f8f;
+}
+
+.colorlinks {
+    color: aliceblue;
+}
+
+#boton_color {
+    float: inline-end;
+    margin-left: 700px;
+    width: 150px;
+    height: 15px;
+    font-size: 10px;
+    
+}
+
+
+p {
+    color: #666;
+}
+section {
+    margin-bottom: 20px;
+}
+h2 {
+    color: #555;
+}
+
+.Resumen {
+    text-align: justify;
+}
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.despacho {
+    width: 100%;
+    height: auto;
+    border-style: dotted;
+}
+
+#Resumen {
+    padding: 20px;
+}
+
+#Educacion {
+    padding: 20px;
+}
+
+#Experiencia {
+    padding: 20px;
+}
+
+.Estudio-juridico {
+    padding-bottom: 5px;
+}
+
+#Habilidades {
+    padding: 20px;
+}
+
+li {
+    list-style-type: square;
+
+}
+
+#Idiomas {
+    padding: 20px;
+}
+
+#boton_video {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.boton_espacio {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+#video_contenedor {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #5b8f8f;
+}
+
+.contacto {
+    color: white;
+}
